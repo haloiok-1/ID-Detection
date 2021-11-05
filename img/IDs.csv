@@ -1,0 +1,1013 @@
+Akazienholzboot,Acacia Boat,acacia_boat,%ID1%
+Akazienholzknopf,Acacia Button,acacia_button,%ID2%
+Akazientür,Acacia Door,acacia_door,%ID3%
+Akazienholzzaun,Acacia Fence,acacia_fence,%ID4%
+Akazienholzzauntor,Acacia Fence Gate,acacia_fence_gate,%ID5%
+Akazienlaub,Acacia Leaves,acacia_leaves,%ID6%
+Akazienstamm,Acacia Log,acacia_log,%ID7%
+Akazienholzbretter,Acacia Wood Plank,acacia_planks,%ID8%
+Akazienholzdruckplatte,Acacia Pressure Plate,acacia_pressure_plate,%ID9%
+Akaziensetzling,Acacia Sapling,acacia_sapling,%ID10%
+Akazienholzschild,Acacia Sign,acacia_sign,%ID11%
+Akazienholzstufe,Acacia Wood Slab,acacia_slab,%ID12%
+Akazienholztreppe,Acacia Wood Stairs,acacia_stairs,%ID13%
+Akazienholzfalltür,Acacia Trapdoor,acacia_trapdoor,%ID14%
+Akazienholz,Acacia Wood,acacia_wood,%ID15%
+Aktivierungsschiene,Activator Rails,activator_rail,%ID16%
+Filler,-,-,%ID17%
+Sternenlauch,Allium,allium,%ID18%
+Andesit,Andesite,andesite,%ID19%
+Andesitstufe,Andesite Slab,andesite_slab,%ID20%
+Andesittreppe,Andesite Stairs,andesite_stairs,%ID21%
+Andesitmauer,Andesite Wall,andesite_wall,%ID22%
+Amboss,Anvil,anvil,%ID23%
+Apfel,Apple,apple,%ID24%
+Rüstungsständer,Armor Stand,armor_stand,%ID25%
+Pfeil,Arrow,arrow,%ID26%
+Porzellansternchen,Azure Bluet,azure_bluet,%ID27%
+Ofenkartoffel,Baked Potato,baked_potato,%ID28%
+Bambus,Bamboo,bamboo,%ID29%
+Fass,Barrel,barrel,%ID30%
+Barriere,Barrier,barrier,%ID31%
+Leuchtfeuer,Beacon,beacon,%ID32%
+Rohes Rindfleisch,Raw Beef,beef,%ID33%
+Rote Bete,Beetroot,beetroot,%ID34%
+Rote Bete Samen,Beetroot Seeds,beetroot_seeds,%ID35%
+Borschtsch,Beetroot Soup,beetroot_soup,%ID36%
+Glocke,Bell,bell,%ID37%
+Birkenholzboot,Birch Boat,birch_boat,%ID38%
+Birkenholzknopf,Birch Button,birch_button,%ID39%
+Birkenholztür,Birch Door,birch_door,%ID40%
+Birkenholzzaun,Birch Fence,birch_fence,%ID41%
+Birkenholzzauntor,Birch Fence Gate,birch_fence_gate,%ID42%
+Birkenlaub,Birch Leaves,birch_leaves,%ID43%
+Birkenstamm,Birch Log,birch_log,%ID44%
+Birkenholzbretter,Birch Wood Plank,birch_planks,%ID45%
+Birkenholzdruckplatte,Birch Pressure Plate,birch_pressure_plate,%ID46%
+Birkensetzling,Birch Sapling,birch_sapling,%ID47%
+Birkenholzschild,Birch Sign,birch_sign,%ID48%
+Birkenholzstufe,Birch Wood Slab,birch_slab,%ID49%
+Birkenholztreppe,Birch Wood Stairs,birch_stairs,%ID50%
+Birkenholzfalltür,Birch Trapdoor,birch_trapdoor,%ID51%
+Birkenholz,Birch Wood,birch_wood,%ID52%
+Schwarzes Banner,Black Banner,black_banner,%ID53%
+Schwarzes Bett,Black Bed,black_bed,%ID54%
+Schwarzer Teppich,Black Carpet,black_carpet,%ID55%
+Schwarzer Beton,Black Concrete,black_concrete,%ID56%
+Schwarzer Trockenbeton,Black Concrete Powder,black_concrete_powder,%ID57%
+Schwarzer Farbstoff,Black Dye,black_dye,%ID58%
+Schwarze glasierte Keramik,Black Glazed Terracotta,black_glazed_terracotta,%ID59%
+Schwarze Shulkerkiste,Black Shulker Box,black_shulker_box,%ID60%
+Schwarzes Glas,Black Stained Glass,black_stained_glass,%ID61%
+Schwarze Glasscheibe,Black Stained Glass Pane,black_stained_glass_pane,%ID62%
+Schwarze Keramik,Black Terracotta,black_terracotta,%ID63%
+Schwarze Wolle,Black Wool,black_wool,%ID64%
+Schmelzofen,Blast Furnace,blast_furnace,%ID65%
+Lohenstaub,Blaze Powder,blaze_powder,%ID66%
+Lohenrute,Blaze Rod,blaze_rod,%ID67%
+Blaues Banner,Blue Banner,blue_banner,%ID68%
+Blaues Bett,Blue Bed,blue_bed,%ID69%
+Blauer Teppich,Blue Carpet,blue_carpet,%ID70%
+Blauer Beton,Blue Concrete,blue_concrete,%ID71%
+Blauer Trockenbeton,Blue Concrete Powder,blue_concrete_powder,%ID72%
+Blauer Farbstoff,Blue Dye,blue_dye,%ID73%
+Blau glasierte Keramik,Blue Glazed Terracotta,blue_glazed_terracotta,%ID74%
+Blaueis,Blue Ice,blue_ice,%ID75%
+Blaue Orchidee,Blue Orchid,blue_orchid,%ID76%
+Blaue Shulkerkiste,Blue Shulker Box,blue_shulker_box,%ID77%
+Blaues Glas,Blue Stained Glass,blue_stained_glass,%ID78%
+Blaue Glasscheibe,Blue Stained Glass Pane,blue_stained_glass_pane,%ID79%
+Blaue Keramik,Blue Terracotta,blue_terracotta,%ID80%
+Blaue Wolle,Blue Wool,blue_wool,%ID81%
+Knochen,Bone,bone,%ID82%
+Knochenblock,Bone Block,bone_block,%ID83%
+Knochenmehl,Bone Meal,bone_meal,%ID84%
+Buch,Book,book,%ID85%
+Bücherregal,Bookshelf,bookshelf,%ID86%
+Schüssel,Bowl,bowl,%ID87%
+Hirnkoralle,Brain Coral,brain_coral,%ID88%
+Hirnkorallenblock,Brain Coral Block,brain_coral_block,%ID89%
+Hirnkorallenfächer,Brain Coral Fan,brain_coral_fan,%ID90%
+Brot,Bread,bread,%ID91%
+Braustand,Brewing Stand,brewing_stand,%ID92%
+Ziegel,Brick,brick,%ID93%
+Ziegelsteinstufe,Brick Slab,brick_slab,%ID94%
+Ziegelsteintreppe,Brick Stairs,brick_stairs,%ID95%
+Ziegelsteinmauer,Brick Wall,brick_wall,%ID96%
+Ziegelstein,Bricks,bricks,%ID97%
+Braunes Banner,Brown Banner,brown_banner,%ID98%
+Baunes Bett,Brown Bed,brown_bed,%ID99%
+Brauner Teppich,Brown Carpet,brown_carpet,%ID100%
+Brauner Beton,Brown Concrete,brown_concrete,%ID101%
+Brauner Trockenbeton,Brown Concrete Powder,brown_concrete_powder,%ID102%
+Brauner Farbstoff,Brown Dye,brown_dye,%ID103%
+Braun glasierte Keramik,Brown Glazed Terracotta,brown_glazed_terracotta,%ID104%
+Brauner Pilz,Mushroom brown,brown_mushroom,%ID105%
+Brauner Pilzblock,Brown Mushroom Block,brown_mushroom_block,%ID106%
+Braune Shulkerkiste,Brown Shulker Box,brown_shulker_box,%ID107%
+Braunes Glas,Brown Stained Glass,brown_stained_glass,%ID108%
+Braune Glasscheibe,Brown Stained Glass Pane,brown_stained_glass_pane,%ID109%
+Braune Keramik,Brown Terracotta,brown_terracotta,%ID110%
+Braune Wolle,Brown Wool,brown_wool,%ID111%
+Blasenkoralle,Bubble Coral,bubble_coral,%ID112%
+Blasenkorallenblock,Bubble Coral Block,bubble_coral_block,%ID113%
+Blasenkorallenfächer,Bubble Coral Fan,bubble_coral_fan,%ID114%
+Eimer,Bucket,bucket,%ID115%
+Kaktus,Cactus,cactus,%ID116%
+Kuchen,Cake,cake,%ID117%
+Lagerfeuer,Campfire,campfire,%ID118%
+Karotte,Carrot,carrot,%ID119%
+Karottenrute,Carrot on a Stick,carrot_on_a_stick,%ID120%
+Kartentisch,Cartography Table,cartography_table,%ID121%
+Geschnitzter Kürbis,Carved Pumpkin,carved_pumpkin,%ID122%
+Kessel,Cauldron,cauldron,%ID123%
+Kettenstiefel,Chain Boots,chainmail_boots,%ID124%
+Kettenhemd,Chain Chestplate,chainmail_chestplate,%ID125%
+Kettenhaube,Chain Helmet,chainmail_helmet,%ID126%
+Kettenhose,Chain Leggings,chainmail_leggings,%ID127%
+Holzkohle,Charcoal,charcoal,%ID128%
+Truhe,Chest,chest,%ID129%
+Güterlore,Minecart with Chest,chest_minecart,%ID130%
+Rohes Hühnchen,Raw Chicken,chicken,%ID131%
+Huhn-Spawn-Ei,Chicken Spawn Egg,chicken_spawn_egg,%ID132%
+Angeschlagener Amboss,Slightly Damaged Anvil,chipped_anvil,%ID133%
+Gemeißelter Quartzblock,Chiseled Quartz Block,chiseled_quartz_block,%ID134%
+Gemeißelter Rotersandstein,Chiseled Red Sandstone,chiseled_red_sandstone,%ID135%
+Gemeißelter Sandstein,Chiseled Sandstone,chiseled_sandstone,%ID136%
+Gemeißelte Steinziegel,Chiseled Stone Bricks,chiseled_stone_bricks,%ID137%
+Chorusblüte,Chorus Flower,chorus_flower,%ID138%
+Chorusfrucht,Chorus Fruit,chorus_fruit,%ID139%
+Ton,Clay Block,clay,%ID140%
+Tonklumpen,Clay,clay_ball,%ID141%
+Uhr,Clock,clock,%ID142%
+Kohle,Coal,coal,%ID143%
+Kohleblock,Coal Block,coal_block,%ID144%
+Steinkohle,Coal Ore,coal_ore,%ID145%
+Grobe Erde,Coarse Dirt,coarse_dirt,%ID146%
+Bruchstein,Cobblestone,cobblestone,%ID147%
+Bruchsteinstufe,Cobblestone Slab,cobblestone_slab,%ID148%
+Bruchsteintreppe,Cobblestone Stairs,cobblestone_stairs,%ID149%
+Bruchsteinmauer,Cobblestone Wall,cobblestone_wall,%ID150%
+Spinnennetz,Cobweb,cobweb,%ID151%
+Kakaobohnen,Cocoa Beans,cocoa_beans,%ID152%
+Roher Kabeljau,Raw Cod,cod,%ID153%
+Kabeljaueimer,Bucket of Cod,cod_bucket,%ID154%
+Redstone-komparator,Redstone Comparator,comparator,%ID155%
+Kompass,Compass,compass,%ID156%
+Komposter,Composter,composter,%ID157%
+Aquisator,Conduit,conduit,%ID158%
+Steak,Steak,cooked_beef,%ID159%
+Gebratenes Hühnchen,Cooked Chicken,cooked_chicken,%ID160%
+Gebratener Kabeljau,Cooked Cod,cooked_cod,%ID161%
+Gebratenes Hammelfleisch,Cooked Mutton,cooked_mutton,%ID162%
+Gebratenes Schweinefleisch,Cooked Porkchop,cooked_porkchop,%ID163%
+Gebratenes Kaninchen,Cooked Rabbit,cooked_rabbit,%ID164%
+Gebratener Lachs,Cooked Salmon,cooked_salmon,%ID165%
+Keks,Cookie,cookie,%ID166%
+Kornblume,Cornflower,cornflower,%ID167%
+Kuh-Spawn-Ei,Cow Spawn Egg,cow_spawn_egg,%ID168%
+Rissige Steinziegel,Cracked Stone Bricks,cracked_stone_bricks,%ID169%
+Werkbank,Crafting Table,crafting_table,%ID170%
+Creeperkopf,Creeper Head,creeper_head,%ID171%
+Armbrust,Crossbow,crossbow,%ID172%
+Geschnittener roter Sandstein,Cut Red Sandstone,cut_red_sandstone,%ID173%
+Geschnittener Sandstein,Cut Sandstone,cut_sandstone,%ID174%
+Türkises Banner,Cyan Banner,cyan_banner,%ID175%
+Türkises bett,Cyan Bed,cyan_bed,%ID176%
+Türkiser Teppich,Cyan Carpet,cyan_carpet,%ID177%
+Türkiser Beton,Cyan Concrete,cyan_concrete,%ID178%
+Türkiser Trockenbeton,Cyan Concrete Powder,cyan_concrete_powder,%ID179%
+Türkiser Farbstoff,Cyan Dye,cyan_dye,%ID180%
+Türkis glasierte Keramik,Cyan Glazed Terracotta,cyan_glazed_terracotta,%ID181%
+Türkise Shulkerkiste,Cyan Shulker Box,cyan_shulker_box,%ID182%
+Türkises Glas,Cyan Stained Glass,cyan_stained_glass,%ID183%
+Türkise Glasscheibe,Cyan Stained Glass Pane,cyan_stained_glass_pane,%ID184%
+Türkise Keramik,Cyan Terracotta,cyan_terracotta,%ID185%
+Türkise Wolle,Cyan Wool,cyan_wool,%ID186%
+Stark beschädigter Amboss,Very Damaged Anvil,damaged_anvil,%ID187%
+Löwenzahn,Dandelion,dandelion,%ID188%
+Schwarzeichenholzboot,Dark Oak Boat,dark_oak_boat,%ID189%
+Schwarzeichenholzknopf,Dark Oak Button,dark_oak_button,%ID190%
+Schwarzeichenholztür,Dark Oak Door,dark_oak_door,%ID191%
+Schwarzeichenholzzaun,Dark Oak Fence,dark_oak_fence,%ID192%
+Schwarzeichenholzzauntor,Dark Oak Fence Gate,dark_oak_fence_gate,%ID193%
+Schwarzeichenlaub,Dark Oak Leaves,dark_oak_leaves,%ID194%
+Schwarzeichenstamm,Dark Oak Log,dark_oak_log,%ID195%
+Schwarzeichenholzbretter,Dark Oak Wood Plank,dark_oak_planks,%ID196%
+Schwarzeichenholzdruckplatte,Dark Oak Pressure Plate,dark_oak_pressure_plate,%ID197%
+Schwarzeichensetzling,Dark Oak Sapling,dark_oak_sapling,%ID198%
+Schwarzeichenholzschild,Dark Oak Sign,dark_oak_sign,%ID199%
+Schwarzeichenholzstufe,Dark Oak Wood Slab,dark_oak_slab,%ID200%
+Schwarzeichenholztreppe,Dark Oak Wood Stairs,dark_oak_stairs,%ID201%
+Schwarzeichenholzfalltür,Dark Oak Trapdoor,dark_oak_trapdoor,%ID202%
+Schwarzeichenholz,Dark Oak Wood,dark_oak_wood,%ID203%
+Dunkler Prismarin,Dark Prismarine,dark_prismarine,%ID204%
+Dunkle Prismarinstufe,Dark Prismarine Slab,dark_prismarine_slab,%ID205%
+Dunkle Prismarintreppe,Dark Prismarine Stairs,dark_prismarine_stairs,%ID206%
+Tageslichtsensor,Daylight Sensor,daylight_detector,%ID207%
+Abgestorbene Hirnkoralle,Dead Brain Coral,dead_brain_coral,%ID208%
+Abgestorbener Hirnkorallenblock,Dead Brain Coral Block,dead_brain_coral_block,%ID209%
+Abgestorbener Hirnkorallenfächer,Dead Brain Coral Fan,dead_brain_coral_fan,%ID210%
+Abgestorbene Blasenkoralle,Dead Bubble Coral,dead_bubble_coral,%ID211%
+Abgestorbener Blasenkorallenblock,Dead Bubble Coral Block,dead_bubble_coral_block,%ID212%
+Abgestorbener Blasenkorallenfächer,Dead Bubble Coral Fan,dead_bubble_coral_fan,%ID213%
+Toter Busch,Dead Bush,dead_bush,%ID214%
+Abgestorbene Feuerkoralle,Dead Fire Coral,dead_fire_coral,%ID215%
+Abgestorbener Feuerkorallenblock,Dead Fire Coral Block,dead_fire_coral_block,%ID216%
+Abgestorbener Feuerkorallenfächer,Dead Fire Coral Fan,dead_fire_coral_fan,%ID217%
+Abgestorbene Geweihkoralle,Dead Horn Coral,dead_horn_coral,%ID218%
+Abgestorbener Geweihkorallenblock,Dead Horn Coral Block,dead_horn_coral_block,%ID219%
+Abgestorbener Geweihkorallenfächer,Dead Horn Coral Fan,dead_horn_coral_fan,%ID220%
+Abgestorbene Orgelkoralle,Dead Tube Coral,dead_tube_coral,%ID221%
+Abgestorbener Orgelkorallenblock,Dead Tube Coral Block,dead_tube_coral_block,%ID222%
+Abgestorbener Orgelkorallenfächer,Dead Tube Coral Fan,dead_tube_coral_fan,%ID223%
+Sensorschiene,Detector Rails,detector_rail,%ID224%
+Diamant,Diamond,diamond,%ID225%
+Diamantaxt,Diamond Axe,diamond_axe,%ID226%
+Diamantblock,Block of Diamond,diamond_block,%ID227%
+Diamantstiefel,Diamond Boots,diamond_boots,%ID228%
+Diamantharnisch,Diamond Chestplate,diamond_chestplate,%ID229%
+Diamanthelm,Diamond Helmet,diamond_helmet,%ID230%
+Diamanthacke,Diamond Hoe,diamond_hoe,%ID231%
+Diamantener Rossharnisch,Diamond Horse Armor,diamond_horse_armor,%ID232%
+Diamantbeinschutz,Diamond Leggings,diamond_leggings,%ID233%
+Diamanterz,Diamond Ore,diamond_ore,%ID234%
+Diamantspitzhacke,Diamond Pickaxe,diamond_pickaxe,%ID235%
+Diamantschaufel,Diamond Shovel,diamond_shovel,%ID236%
+Diamantschwert,Diamond Sword,diamond_sword,%ID237%
+Diorit,Diorite,diorite,%ID238%
+Dioritstufe,Diorite Slab,diorite_slab,%ID239%
+Diorittreppe,Diorite Stairs,diorite_stairs,%ID240%
+Dioritmauer,Diorite Wall,diorite_wall,%ID241%
+Erde,Dirt,dirt,%ID242%
+Werfer,Dispenser,dispenser,%ID243%
+Delfin-Spawn-Ei,Dolphin Spawn Egg,dolphin_spawn_egg,%ID244%
+Esel-Spawn-Ei,Donkey Spawn Egg,donkey_spawn_egg,%ID245%
+Drachenatem,Dragon's Breath,dragon_breath,%ID246%
+Drachenei,Dragon Egg,dragon_egg,%ID247%
+Drachenkopf,Dragon Head,dragon_head,%ID248%
+Getrockneter Seetang,Dried Kelp,dried_kelp,%ID249%
+Getrockneter Seetangblock,Dried Kelp Block,dried_kelp_block,%ID250%
+Spender,Dropper,dropper,%ID251%
+Ei,Egg,egg,%ID252%
+Elytra,Elytra,elytra,%ID253%
+Smaragd,Emerald,emerald,%ID254%
+Smaragdblock,Block of Emerald,emerald_block,%ID255%
+Smaragderz,Emerald Ore,emerald_ore,%ID256%
+Verzauberter goldener Apfel,Enchanted Golden Apple,enchanted_golden_apple,%ID257%
+Verzauberungstisch,Enchanting Table,enchanting_table,%ID258%
+Enderkristall,End Crystal,end_crystal,%ID259%
+Endstab,End Rod,end_rod,%ID260%
+Endstein,End Stone,end_stone,%ID261%
+Endsteinziegelstufe,End Stone Brick Slab,end_stone_brick_slab,%ID262%
+Endsteinziegeltreppe,End Stone Brick Stairs,end_stone_brick_stairs,%ID263%
+Endsteinziegelmauer,End Stone Brick Wall,end_stone_brick_wall,%ID264%
+Endsteinziegel,End Stone Bricks,end_stone_bricks,%ID265%
+Endertruhe,Ender Chest,ender_chest,%ID266%
+Enderauge,Eye of Ender,ender_eye,%ID267%
+Enderperle,Ender Pearl,ender_pearl,%ID268%
+Erfahrungsfläschchen,Bottle o'Enchanting,experience_bottle,%ID269%
+Feder,Feather,feather,%ID270%
+Fermentiertes Spinnenauge,Fermented Spider Eye,fermented_spider_eye,%ID271%
+Farn,Fern,fern,%ID272%
+Feuerkugel,Fire Charge,fire_charge,%ID273%
+Feuerkoralle,Fire Coral,fire_coral,%ID274%
+Feuerkorallenblock,Fire Coral Block,fire_coral_block,%ID275%
+Feuerkorallenfächer,Fire Coral Fan,fire_coral_fan,%ID276%
+Feuerwerksrakete,Firework Rocket,firework_rocket,%ID277%
+Feuerwerksstern,Firework Star,firework_star,%ID278%
+Angel,Fishing Rod,fishing_rod,%ID279%
+Bognertisch,Fletching Table,fletching_table,%ID280%
+Feuerstein,Flint,flint,%ID281%
+Feuerzeug,Flint and Steel,flint_and_steel,%ID282%
+Blumentopf,Flower Pot,flower_pot,%ID283%
+Fuchs-Spawn-Ei,Fox Spawn Egg,fox_spawn_egg,%ID284%
+Ofen,Furnace,furnace,%ID285%
+Ofenlore,Minecart with Furnace,furnace_minecart,%ID286%
+Ghastträne,Ghast Tear,ghast_tear,%ID287%
+Glas,Glass,glass,%ID288%
+Glasflasche,Glass Bottle,glass_bottle,%ID289%
+Glasscheibe,Glass Pane,glass_pane,%ID290%
+Glowstone,Glowstone,glowstone,%ID292%
+Glitzernde Melonenscheibe,Glistering Melon,glistering_melon_slice,%ID291%
+Glowstonestaub,Glowstone Dust,glowstone_dust,%ID293%
+Goldblock,Block of Gold,gold_block,%ID294%
+Goldbarren,Gold Ingot,gold_ingot,%ID295%
+Goldklumpen,Gold Nugget,gold_nugget,%ID296%
+Golderz,Gold Ore,gold_ore,%ID297%
+Goldener Apfel,Golden Apple,golden_apple,%ID298%
+Goldaxt,Golden Axe,golden_axe,%ID299%
+Goldstiefel,Golden Boots,golden_boots,%ID300%
+Goldene Karotte,Golden Carrot,golden_carrot,%ID301%
+Goldharnisch,Golden Chestplate,golden_chestplate,%ID302%
+Goldhelm,Golden Helmet,golden_helmet,%ID303%
+Goldhacke,Golden Hoe,golden_hoe,%ID304%
+Goldener Rossharnisch,Gold Horse Armor,golden_horse_armor,%ID305%
+Goldbeinschutz,Golden Leggings,golden_leggings,%ID306%
+Goldspitzhacke,Golden Pickaxe,golden_pickaxe,%ID307%
+Goldschaufel,Golden Shovel,golden_shovel,%ID308%
+Goldschwert,Golden Sword,golden_sword,%ID309%
+Granit,Granite,granite,%ID310%
+Granitstufe,Granite Slab,granite_slab,%ID311%
+Granittreppe,Granite Stairs,granite_stairs,%ID312%
+Granitmauer,Granite Wall,granite_wall,%ID313%
+Gras,Grass,grass,%ID314%
+Grasblock,Grass Block,grass_block,%ID315%
+Kies,Gravel,gravel,%ID317%
+Grauer Banner,Gray Banner,gray_banner,%ID318%
+Graues Bett,Gray Bed,gray_bed,%ID319%
+Grauer Teppich,Gray Carpet,gray_carpet,%ID320%
+Grauer Beton,Gray Concrete,gray_concrete,%ID321%
+Grauer Trockenbeton,Gray Concrete Powder,gray_concrete_powder,%ID322%
+Grauer Farbstoff,Gray Dye,gray_dye,%ID323%
+Graue glasierte Keramik,Gray Glazed Terracotta,gray_glazed_terracotta,%ID324%
+Graue Shulkerkiste,Gray Shulker Box,gray_shulker_box,%ID325%
+Graues Glas,Gray Stained Glass,gray_stained_glass,%ID326%
+Graue Glasscheibe,Gray Stained Glass Pane,gray_stained_glass_pane,%ID327%
+Graue Keramik,Gray Terracotta,gray_terracotta,%ID328%
+Graue Wolle,Gray Wool,gray_wool,%ID329%
+Grüner Banner,Green Banner,green_banner,%ID330%
+Grünes Bett,Green Bed,green_bed,%ID331%
+Grüner Teppich,Green Carpet,green_carpet,%ID332%
+Grüner Beton,Green Concrete,green_concrete,%ID333%
+Grüner Trockenbeton,Green Concrete Powder,green_concrete_powder,%ID334%
+Grüner Farbstoff,Green Dye,green_dye,%ID335%
+Grüne glasierte Keramik,Green Glazed Terracotta,green_glazed_terracotta,%ID336%
+Grüne Shulkerkiste,Green Shulker Box,green_shulker_box,%ID337%
+Grünes Glas,Green Stained Glass,green_stained_glass,%ID338%
+Grüne Glasscheibe,Green Stained Glass Pane,green_stained_glass_pane,%ID339%
+Grüne Keramik,Green Terracotta,green_terracotta,%ID340%
+Grüne Wolle,Green Wool,green_wool,%ID341%
+Schleifstein,Grindstone,grindstone,%ID342%
+Schwarzpulver,Gunpowder,gunpowder,%ID343%
+Heuballen,Hay Bale,hay_block,%ID344%
+Herz des Meeres,Heart of the Sea,heart_of_the_sea,%ID345%
+Grobwägeplatte,Heavy Weighted Pressure Plate,heavy_weighted_pressure_plate,%ID346%
+Trichter,Hopper,hopper,%ID347%
+Trichterlore,Minecart with Hopper,hopper_minecart,%ID348%
+Geweihkoralle,Horn Coral,horn_coral,%ID349%
+Geweihkorallenblock,Horn Coral Block,horn_coral_block,%ID350%
+Geweihkorallenfächer,Horn Coral Fan,horn_coral_fan,%ID351%
+Pferde-Spawn-Ei,Horse Spawn Egg,horse_spawn_egg,%ID352%
+Eis,Ice,ice,%ID353%
+Tintenbeutel,Ink Sac,ink_sac,%ID354%
+Eisenaxt,Iron Axe,iron_axe,%ID355%
+Eisengitter,Iron Bars,iron_bars,%ID356%
+Eisenblock,Block of Iron,iron_block,%ID357%
+Eisenstiefel,Iron Boots,iron_boots,%ID358%
+Eisenharnisch,Iron Chestplate,iron_chestplate,%ID359%
+Eisentür,Iron Door,iron_door,%ID360%
+Eisenhelm,Iron Helmet,iron_helmet,%ID361%
+Eisenhacke,Iron Hoe,iron_hoe,%ID362%
+Eiserner Rossharnisch,Iron Horse Armor,iron_horse_armor,%ID363%
+Eisenbarren,Iron Ingot,iron_ingot,%ID364%
+Eisenbeinschutz,Iron Leggings,iron_leggings,%ID365%
+Eisenklumpen,Iron Nugget,iron_nugget,%ID366%
+Eisenerz,Iron Ore,iron_ore,%ID367%
+Eisenspitzhacke,Iron Pickaxe,iron_pickaxe,%ID368%
+Eisenschaufel,Iron Shovel,iron_shovel,%ID369%
+Eisenschwert,Iron Sword,iron_sword,%ID370%
+Eisenfalltür,Iron Trapdoor,iron_trapdoor,%ID371%
+Bilderrahmen,Item Frame,item_frame,%ID372%
+Kürbislaterne,Jack o'Lantern,jack_o_lantern,%ID373%
+Plattenspieler,Jukebox,jukebox,%ID374%
+Tropenholzboot,Jungle Boat,jungle_boat,%ID375%
+Tropenholzknopf,Jungle Button,jungle_button,%ID376%
+Tropenholztür,Jungle Door,jungle_door,%ID377%
+Tropenholzzaun,Jungle Fence,jungle_fence,%ID378%
+Tropenholzzauntür,Jungle Fence Gate,jungle_fence_gate,%ID379%
+Tropenbaumlaub,Jungle Leaves,jungle_leaves,%ID380%
+Tropenbaumstamm,Jungle Log,jungle_log,%ID381%
+Tropenholzbretter,Jungle Wood Plank,jungle_planks,%ID382%
+Tropenholzdruckplatte,Jungle Pressure Plate,jungle_pressure_plate,%ID383%
+Tropenbaumsetzling,Jungle Sapling,jungle_sapling,%ID384%
+Tropenholzschild,Jungle Sign,jungle_sign,%ID385%
+Tropenholzstufe,Jungle Wood Slab,jungle_slab,%ID386%
+Tropenholztreppe,Jungle Wood Stairs,jungle_stairs,%ID387%
+Tropenholzfalltür,Jungle Trapdoor,jungle_trapdoor,%ID388%
+Tropenholz,Jungle Wood,jungle_wood,%ID389%
+Seetang,Kelp,kelp,%ID390%
+Leiter,Ladder,ladder,%ID391%
+Laterne,Lantern,lantern,%ID392%
+Lapislazuliblock,Lapis Lazuli Block,lapis_block,%ID393%
+Großer Farn,Large Fern,large_fern,%ID396%
+Lavaeimer,Lava Bucket,lava_bucket,%ID397%
+Leine,Lead,lead,%ID398%
+Leder,Leather,leather,%ID399%
+Lederstiefel,Leather Boots,leather_boots,%ID400%
+Lederjacke,Leather Tunic,leather_chestplate,%ID401%
+Lederkappe,Leather Cap,leather_helmet,%ID402%
+Lederner Rossharnisch,Leather Horse Armor,leather_horse_armor,%ID403%
+Lederhose,Leather Pants,leather_leggings,%ID404%
+Lesepult,Lectern,lectern,%ID405%
+Hebel,Lever,lever,%ID406%
+Hellblauer Banner,Light Blue Banner,light_blue_banner,%ID407%
+Hellblaues Bett,Light Blue Bed,light_blue_bed,%ID408%
+Hellblauer Teppich,Light Blue Carpet,light_blue_carpet,%ID409%
+Hellblauer Beton,Light Blue Concrete,light_blue_concrete,%ID410%
+Hellblauer Trockenbeton,Light Blue Concrete Powder,light_blue_concrete_powder,%ID411%
+Hellblauer Farbstoff,Light Blue Dye,light_blue_dye,%ID412%
+Hellblaue glasierte Keramik,Light Blue Glazed Terracotta,light_blue_glazed_terracotta,%ID413%
+Hellblaue Shulkerkiste,Light Blue Shulker Box,light_blue_shulker_box,%ID414%
+Hellblaues Glas,Light Blue Stained Glass,light_blue_stained_glass,%ID415%
+Hellblaue Glasscheibe,Light Blue Stained Glass Pane,light_blue_stained_glass_pane,%ID416%
+Hellblaue Keramik,Light Blue Terracotta,light_blue_terracotta,%ID417%
+Hellblaue Wolle,Light Blue Wool,light_blue_wool,%ID418%
+Hellgrauer Banner,Light Gray Banner,light_gray_banner,%ID419%
+Hellgraues Bett,Light Gray Bed,light_gray_bed,%ID420%
+Hellgrauer Teppich,Light Gray Carpet,light_gray_carpet,%ID421%
+Hellgrauer Beton,Light Gray Concrete,light_gray_concrete,%ID422%
+Hellgrauer Trockenbeton,Light Gray Concrete Powder,light_gray_concrete_powder,%ID423%
+Hellgrauer Farbstoff,Light Gray Dye,light_gray_dye,%ID424%
+Hellgraue glasierte Keramik,Light Gray Glazed Terracotta,light_gray_glazed_terracotta,%ID425%
+Hellgraue Shulkerkiste,Light Gray Shulker Box,light_gray_shulker_box,%ID426%
+Hellgraues Glas,Light Gray Stained Glass,light_gray_stained_glass,%ID427%
+Hellgraue Glasscheibe,Light Gray Stained Glass Pane,light_gray_stained_glass_pane,%ID428%
+Hellgraue Keramik,Light Gray Terracotta,light_gray_terracotta,%ID429%
+Hellgraue Wolle,Light Gray Wool,light_gray_wool,%ID430%
+Feinwägeplatte,Light Weighted Pressure Plate,light_weighted_pressure_plate,%ID431%
+Wirrschild,Warped Sign,warped_sign,%ID843%
+Flieder,Lilac,lilac,%ID432%
+Maiglöckchen,Lily of the Valley,lily_of_the_valley,%ID433%
+Seerosenblatt,Lily Pad,lily_pad,%ID434%
+Hellgrüner Banner,Lime Banner,lime_banner,%ID435%
+Hellgrünes Bett,Lime Bed,lime_bed,%ID436%
+Hellgrüner Teppich,Lime Carpet,lime_carpet,%ID437%
+Hellgrüner Beton,Lime Concrete,lime_concrete,%ID438%
+Hellgrüner Trockenbeton,Lime Concrete Powder,lime_concrete_powder,%ID439%
+Hellgrüner Farbstoff,Lime Dye,lime_dye,%ID440%
+Hellgrüne glasierte Keramik,Lime Glazed Terracotta,lime_glazed_terracotta,%ID441%
+Hellgrüne Shulkerkiste,Lime Shulker Box,lime_shulker_box,%ID442%
+Hellgrünes Glas,Lime Stained Glass,lime_stained_glass,%ID443%
+Hellgrüne Glasscheibe,Lime Stained Glass Pane,lime_stained_glass_pane,%ID444%
+Hellgrüne Keramik,Lime Terracotta,lime_terracotta,%ID445%
+Hellgrüne Wolle,Lime Wool,lime_wool,%ID446%
+Lama-Spawn-Ei,Llama Spawn Egg,llama_spawn_egg,%ID447%
+Webstuhl,Loom,loom,%ID448%
+Magenta Banner,Magenta Banner,magenta_banner,%ID449%
+Magenta Bett,Magenta Bed,magenta_bed,%ID450%
+Magenta Teppich,Magenta Carpet,magenta_carpet,%ID451%
+Magenta Beton,Magenta Concrete,magenta_concrete,%ID452%
+Magenta Trockenbeton,Magenta Concrete Powder,magenta_concrete_powder,%ID453%
+Magenta Farbstoff,Magenta Dye,magenta_dye,%ID454%
+Magenta glasierte Keramik,Magenta Glazed Terracotta,magenta_glazed_terracotta,%ID455%
+Magenta Shulkerkiste,Magenta Shulker Box,magenta_shulker_box,%ID456%
+Magenta Glas,Magenta Stained Glass,magenta_stained_glass,%ID457%
+Magenta Glasscheibe,Magenta Stained Glass Pane,magenta_stained_glass_pane,%ID458%
+Magenta Keramik,Magenta Terracotta,magenta_terracotta,%ID459%
+Magenta Wolle,Magenta Wool,magenta_wool,%ID460%
+Magmablock,Magma Block,magma_block,%ID461%
+Magmacreme,Magma Cream,magma_cream,%ID462%
+Karte,Map,map,%ID463%
+Melone,Block of Melon,melon,%ID464%
+Melonensamen,Melon Seeds,melon_seeds,%ID465%
+Melonenscheibe,Melon Slice,melon_slice,%ID466%
+Milcheimer,Milk,milk_bucket,%ID467%
+Lore,Minecart,minecart,%ID468%
+Mooshroom-Spawn-Ei,Mooshroom Spawn Egg,mooshroom_spawn_egg,%ID469%
+Bemooster Bruchstein,Mossy Cobblestone,mossy_cobblestone,%ID470%
+Bemooste Bruchsteinstufe,Mossy Cobblestone Slab,mossy_cobblestone_slab,%ID471%
+Bemooste Bruchsteintreppe,Mossy Cobblestone Stairs,mossy_cobblestone_stairs,%ID472%
+Bemooste Bruchsteinmauer,Mossy Cobblestone Wall,mossy_cobblestone_wall,%ID473%
+Bemooste Steinziegelstufe,Mossy Stone Brick Slab,mossy_stone_brick_slab,%ID474%
+Bemooste Steinziegeltreppe,Mossy Stone Brick Stairs,mossy_stone_brick_stairs,%ID475%
+Bemooste Steinziegelmauer,Mossy Stone Brick Wall,mossy_stone_brick_wall,%ID476%
+Bemooster Steinziegel,Mossy Stone Bricks,mossy_stone_bricks,%ID477%
+Maultier-Spawn-Ei,Mule Spawn Egg,mule_spawn_egg,%ID478%
+Pilzstiel,Mushroom Stem,mushroom_stem,%ID479%
+Pilzsuppe,Mushroom Stew,mushroom_stew,%ID480%
+Schallplatte,Music Disc C418 - 11,music_disc_11,%ID481%
+Schallplatte,Music Disc C418 - 13,music_disc_13,%ID482%
+Schallplatte,Music Disc C418 - blocks,music_disc_blocks,%ID483%
+Schallplatte,Music Disc C418 - cat,music_disc_cat,%ID484%
+Schallplatte,Music Disc C418 - chirp,music_disc_chirp,%ID485%
+Schallplatte,Music Disc C418 - far,music_disc_far,%ID486%
+Schallplatte,Music Disc C418 - mall,music_disc_mall,%ID487%
+Schallplatte,Music Disc C418 - mellohi,music_disc_mellohi,%ID488%
+Schallplatte,Music Disc C418 - stal,music_disc_stal,%ID489%
+Schallplatte,Music Disc C418 - strad,music_disc_strad,%ID490%
+Schallplatte,Music Disc C418 - wait,music_disc_wait,%ID491%
+Schallplatte,Music Disc C418 - ward,music_disc_ward,%ID492%
+Rohes Hammelfleisch,Raw Mutton,mutton,%ID493%
+Myzel,Mycelium,mycelium,%ID494%
+Namensschild,Name Tag,name_tag,%ID495%
+Nautilusschale,Nautilus Shell,nautilus_shell,%ID496%
+Netherziegel,Nether Brick,nether_brick,%ID497%
+Netherziegelzaun,Nether Brick Fence,nether_brick_fence,%ID498%
+Netherziegelstufe,Nether Brick Slab,nether_brick_slab,%ID499%
+Netherziegeltreppe,Nether Brick Stairs,nether_brick_stairs,%ID500%
+Netherziegelmauer,Nether Brick Wall,nether_brick_wall,%ID501%
+Netherziegel,Block of Nether Brick,nether_bricks,%ID502%
+Netherquarzerz,Nether Quartz Ore,nether_quartz_ore,%ID503%
+Netherstern,Nether Star,nether_star,%ID504%
+Netherwarze,Nether Wart,nether_wart,%ID505%
+Netherwarzenblock,Nether Wart Block,nether_wart_block,%ID506%
+Netherrack,Netherrack,netherrack,%ID507%
+Notenblock,Note Block,note_block,%ID508%
+Eichenholzboot,Oak Boat,oak_boat,%ID509%
+Eichenholzknopf,Oak Button,oak_button,%ID510%
+Eichenholztür,Oak Door,oak_door,%ID511%
+Eichenholzzaun,Oak Fence,oak_fence,%ID512%
+Eichenholzzauntor,Oak Fence Gate,oak_fence_gate,%ID513%
+Eichenlaub,Oak Leaves,oak_leaves,%ID514%
+Eichenstamm,Oak Log,oak_log,%ID515%
+Eichenholzbretter,Oak Wood Plank,oak_planks,%ID516%
+Eichenholzdruckplatte,Oak Pressure Plate,oak_pressure_plate,%ID517%
+Eichensetzling,Oak Sapling,oak_sapling,%ID518%
+Eichenholzschild,Oak Sign,oak_sign,%ID519%
+Eichenholzstufe,Oak Wood Slab,oak_slab,%ID520%
+Eichenholztreppe,Oak Wood Stairs,oak_stairs,%ID521%
+Eichenholzfalltür,Oak Trapdoor,oak_trapdoor,%ID522%
+Eichenholz,Oak Wood,oak_wood,%ID523%
+Beobachter,Observer,observer,%ID524%
+Obsidian,Obsidian,obsidian,%ID525%
+Ozelot-Spawn-Ei,Ocelot Spawn Egg,ocelot_spawn_egg,%ID526%
+Oranges Banner,Orange Banner,orange_banner,%ID527%
+Oranges Bett,Orange Bed,orange_bed,%ID528%
+Oranger Teppich,Orange Carpet,orange_carpet,%ID529%
+Oranger Beton,Orange Concrete,orange_concrete,%ID530%
+Oranger Trockenbeton,Orange Concrete Powder,orange_concrete_powder,%ID531%
+Oranger Farbstoff,Orange Dye,orange_dye,%ID532%
+Orange glasierte Keramik,Orange Glazed Terracotta,orange_glazed_terracotta,%ID533%
+Orange Shulkerkiste,Orange Shulker Box,orange_shulker_box,%ID534%
+Oranges Glas,Orange Stained Glass,orange_stained_glass,%ID535%
+Orange Glasscheibe,Orange Stained Glass Pane,orange_stained_glass_pane,%ID536%
+Orange Keramik,Orange Terracotta,orange_terracotta,%ID537%
+Orange Tulpe,Orange Tulip,orange_tulip,%ID538%
+Orange Wolle,Orange Wool,orange_wool,%ID539%
+Margerite,Oxeye Daisy,oxeye_daisy,%ID540%
+Packeis,Packed Ice,packed_ice,%ID541%
+Gemälde,Painting,painting,%ID542%
+Panda-Spawn-Ei,Panda Spawn Egg,panda_spawn_egg,%ID543%
+Papier,Paper,paper,%ID544%
+Papageien-Spawn-Ei,Parrot Spawn Egg,parrot_spawn_egg,%ID545%
+Pfingstrose,Peony,peony,%ID546%
+Phantomhaut,Phantom Membrane,phantom_membrane,%ID547%
+Schweine-Spawn-Ei,Pig Spawn Egg,pig_spawn_egg,%ID548%
+Rosa Banner,Pink Banner,pink_banner,%ID549%
+Rosa Bett,Pink Bed,pink_bed,%ID550%
+Rosa Teppich,Pink Carpet,pink_carpet,%ID551%
+Rosa Beton,Pink Concrete,pink_concrete,%ID552%
+Rosa Trockenbeton,Pink Concrete Powder,pink_concrete_powder,%ID553%
+Rosa Farbstoff,Pink Dye,pink_dye,%ID554%
+Rosa glasierte Keramik,Pink Glazed Terracotta,pink_glazed_terracotta,%ID555%
+Rosa Shulkerkiste,Pink Shulker Box,pink_shulker_box,%ID556%
+Rosa Glas,Pink Stained Glass,pink_stained_glass,%ID557%
+Rosa Glasscheibe,Pink Stained Glass Pane,pink_stained_glass_pane,%ID558%
+Rosa Keramik,Pink Terracotta,pink_terracotta,%ID559%
+Rosa Tulpe,Pink Tulip,pink_tulip,%ID560%
+Rosa Wolle,Pink Wool,pink_wool,%ID561%
+Kolben,Piston,piston,%ID562%
+Podsol,Podzol,podzol,%ID563%
+Giftige Kartoffel,Poisonous Potato,poisonous_potato,%ID564%
+Eisbär-Spawn-Ei,Polar Bear Spawn Egg,polar_bear_spawn_egg,%ID565%
+Polierter Andesit,Polished Andesite,polished_andesite,%ID566%
+Polierte Andesitstufe,Polished Andesite Slab,polished_andesite_slab,%ID567%
+Polierte Andesittreppe,Polished Andesite Stairs,polished_andesite_stairs,%ID568%
+Polierter Diorit,Polished Diorite,polished_diorite,%ID569%
+Polierte Dioritstufe,Polished Diorite Slab,polished_diorite_slab,%ID570%
+Polierte Diorittreppe,Polished Diorite Stairs,polished_diorite_stairs,%ID571%
+Polierter Granit,Polished Granite,polished_granite,%ID572%
+Polierte Granitstufe,Polished Granite Slab,polished_granite_slab,%ID573%
+Polierte Granittreppe,Polished Granite Stairs,polished_granite_stairs,%ID574%
+Geplatzte Chorusfrucht,Popped Chorus Fruit,popped_chorus_fruit,%ID575%
+Mohn,Poppy,poppy,%ID576%
+Rohes Schweinefleisch,Raw Porkchop,porkchop,%ID577%
+Kartoffel,Potato,potato,%ID578%
+Wasserflasche,Water Bottle,potion,%ID579%
+Antriebsschiene,Powered Rails,powered_rail,%ID580%
+Prismarin,Prismarine,prismarine,%ID581%
+Prismarinziegelstufe,Prismarine Brick Slab,prismarine_brick_slab,%ID582%
+Prismarinziegeltreppe,Prismarine Bricks Stairs,prismarine_brick_stairs,%ID583%
+Prismarinziegel,Prismarine Bricks,prismarine_bricks,%ID584%
+Prismarinkristalle,Prismarine Crystals,prismarine_crystals,%ID585%
+Prismarinscherbe,Prismarine Shard,prismarine_shard,%ID586%
+Prismarinstufe,Prismarine Slab,prismarine_slab,%ID587%
+Prismarintreppe,Prismarine Stairs,prismarine_stairs,%ID588%
+Prismarinmauer,Prismarine Wall,prismarine_wall,%ID589%
+Kugelfisch,Pufferfish,pufferfish,%ID590%
+Kugelfischeimer,Bucket of Pufferfish,pufferfish_bucket,%ID591%
+Kürbis,Pumpkin,pumpkin,%ID592%
+Kürbiskuchen,Pumpkin Pie,pumpkin_pie,%ID593%
+Kürbiskerne,Pumpkin Seeds,pumpkin_seeds,%ID594%
+Violettes Banner,Purple Banner,purple_banner,%ID595%
+Violettes Bett,Purple Bed,purple_bed,%ID596%
+Violetter Teppich,Purple Carpet,purple_carpet,%ID597%
+Violetter Beton,Purple Concrete,purple_concrete,%ID598%
+Violetter Trockenbeton,Purple Concrete Powder,purple_concrete_powder,%ID599%
+Violetter Farbstoff,Purple Dye,purple_dye,%ID600%
+Violette glasierte Keramik,Purple Glazed Terracotta,purple_glazed_terracotta,%ID601%
+Violette Shulkerbox,Purple Shulker Box,purple_shulker_box,%ID602%
+Violettes Glas,Purple Stained Glass,purple_stained_glass,%ID603%
+Violette Glasscheibe,Purple Stained Glass Pane,purple_stained_glass_pane,%ID604%
+Violette Keramik,Purple Terracotta,purple_terracotta,%ID605%
+Violette Wolle,Purple Wool,purple_wool,%ID606%
+Purpurblock,Purpur Block,purpur_block,%ID607%
+Purpursäule,Purpur Pillar,purpur_pillar,%ID608%
+Purpurstufe,Purpur Slab,purpur_slab,%ID609%
+Purpurtreppe,Purpur Stairs,purpur_stairs,%ID610%
+Netherquarz,Nether Quartz,quartz,%ID611%
+Quarzblock,Block of Quartz,quartz_block,%ID612%
+Quarzsäule,Pillar Quartz Block,quartz_pillar,%ID613%
+Quarzstufe,Quartz Slab,quartz_slab,%ID614%
+Quarztreppe,Quartz Stairs,quartz_stairs,%ID615%
+Rohes Kaninchen,Raw Rabbit,rabbit,%ID616%
+Hasenpfote,Rabbit's Foot,rabbit_foot,%ID617%
+Kaninchenfell,Rabbit Hide,rabbit_hide,%ID618%
+Kaninchen-Spawn-Ei,Rabbit Spawn Egg,rabbit_spawn_egg,%ID619%
+Kaninchenragout,Rabbit Stew,rabbit_stew,%ID620%
+Schiene,Rails,rail,%ID621%
+Rotes Banner,Red Banner,red_banner,%ID622%
+Rotes Bett,Red Bed,red_bed,%ID623%
+Roter Teppich,Red Carpet,red_carpet,%ID624%
+Roter Beton,Red Concrete,red_concrete,%ID625%
+Roter Trockenbeton,Red Concrete Powder,red_concrete_powder,%ID626%
+Roter Farbstoff,Red Dye,red_dye,%ID627%
+Rote glasierte Keramik,Red Glazed Terracotta,red_glazed_terracotta,%ID628%
+Roter Pilz,Mushroom red,red_mushroom,%ID629%
+Roter Pilzblock,Red Mushroom Block,red_mushroom_block,%ID630%
+Rote Netherziegelstufe,Red Nether Brick Slab,red_nether_brick_slab,%ID631%
+Rote Netherziegeltreppe,Red Nether Brick Stairs,red_nether_brick_stairs,%ID632%
+Rote Netherziegelmauer,Red Nether Brick Wall,red_nether_brick_wall,%ID633%
+Rote Netherziegel,Red Nether Brick,red_nether_bricks,%ID634%
+Roter Sand,Red Sand,red_sand,%ID635%
+Roter Sandstein,Red Sandstone,red_sandstone,%ID636%
+Rote Sandsteinstufe,Red Sandstone Slab,red_sandstone_slab,%ID637%
+Rote Sandsteintreppe,Red Sandstone Stairs,red_sandstone_stairs,%ID638%
+Rote Sandsteinmauer,Red Sandstone Wall,red_sandstone_wall,%ID639%
+Rote Shulkerbox,Red Shulker Box,red_shulker_box,%ID640%
+Rotes Glas,Red Stained Glass,red_stained_glass,%ID641%
+Rote Glasscheibe,Red Stained Glass Pane,red_stained_glass_pane,%ID642%
+Rote Keramik,Red Terracotta,red_terracotta,%ID643%
+Rote Tulpe,Red Tulip,red_tulip,%ID644%
+Rote Wolle,Red Wool,red_wool,%ID645%
+Redstone-Staub,Redstone,redstone,%ID646%
+Redstone-Block,Block of Redstone,redstone_block,%ID647%
+Redstone-Lampe,Redstone Lamp,redstone_lamp,%ID648%
+Redstone-Erz,Redstone Ore,redstone_ore,%ID649%
+Redstone-Fackel,Redstone Torch,redstone_torch,%ID650%
+Redstone-Verstärker,Redstone Repeater,repeater,%ID651%
+Rosenstrauch,Rose Bush,rose_bush,%ID652%
+Verrotetes Fleisch,Rotten Flesh,rotten_flesh,%ID653%
+Sattel,Saddle,saddle,%ID654%
+Roher Lachs,Raw Salmon,salmon,%ID655%
+Lachseimer,Bucket of Salmon,salmon_bucket,%ID656%
+Sand,Sand,sand,%ID657%
+Sandstein,Sandstone,sandstone,%ID658%
+Sandsteinstufe,Sandstone Slab,sandstone_slab,%ID659%
+Sandsteintreppe,Sandstone Stairs,sandstone_stairs,%ID660%
+Sandsteinmauer,Sandstone Wall,sandstone_wall,%ID661%
+Gerüst,Scaffolding,scaffolding,%ID662%
+Hornschild,Scute,scute,%ID663%
+Seelaterne,Sea Lantern,sea_lantern,%ID664%
+Meeresgurke,Sea Pickle,sea_pickle,%ID665%
+Seegras,Sea Grass,seagrass,%ID666%
+Schaf-Spawn-Ei,Sheep Spawn Egg,sheep_spawn_egg,%ID668%
+Schere,Shears,shears,%ID667%
+Schild,Shield,shield,%ID669%
+Shulkerkiste,Shulker Box,shulker_box,%ID670%
+Shulkerschale,Shulker Shell,shulker_shell,%ID671%
+Skelettschädel,Skeleton Skull,skeleton_skull,%ID672%
+Schleimball,Slimeball,slime_ball,%ID673%
+Schleimblock,Slime Block,slime_block,%ID674%
+Schmiedetisch,Smithing Table,smithing_table,%ID675%
+Räucherofen,Smoker,smoker,%ID676%
+Glatter Quarzblock,Smooth Quartz,smooth_quartz,%ID677%
+Glatte Quarzstufe,Smooth Quartz Slab,smooth_quartz_slab,%ID678%
+Glatte Quarztreppe,Smooth Quartz Stairs,smooth_quartz_stairs,%ID679%
+Glatter roter Sandstein,Smooth Red Sandstone,smooth_red_sandstone,%ID680%
+Glatte rote Sandsteinstufe,Smooth Red Sandstone Slab,smooth_red_sandstone_slab,%ID681%
+Glatte rote Sandsteintreppe,Smooth Red Sandstone Stairs,smooth_red_sandstone_stairs,%ID682%
+Glatter Sandstein,Smooth Sandstone,smooth_sandstone,%ID683%
+Glatte Sandsteinstufe,Smooth Sandstone Slab,smooth_sandstone_slab,%ID684%
+Glatte Sandsteintreppe,Smooth Sandstone Stairs,smooth_sandstone_stairs,%ID685%
+Glatter Stein,Smooth Stone,smooth_stone,%ID686%
+Glatte Steinstufe,Smooth Stone Slab,smooth_stone_slab,%ID687%
+Schnee,Snow,snow,%ID688%
+Schneeblock,Snow Block,snow_block,%ID689%
+Schneeball,Snowball,snowball,%ID690%
+Seelensand,Soul Sand,soul_sand,%ID691%
+Spawner,Monster Spawner,spawner,%ID692%
+Spektralpfeil,Spectral Arrow,spectral_arrow,%ID693%
+Spinnenauge,Spider Eye,spider_eye,%ID694%
+Schwamm,Sponge,sponge,%ID695%
+Fichtenholzboot,Spruce Boat,spruce_boat,%ID696%
+Fichtenholzknopf,Spruce Button,spruce_button,%ID697%
+Fichtenholztür,Spruce Door,spruce_door,%ID698%
+Fichtenholzzaun,Spruce Fence,spruce_fence,%ID699%
+Fichtenholzzauntor,Spruce Fence Gate,spruce_fence_gate,%ID700%
+Fichtenholznadel,Spruce Leaves,spruce_leaves,%ID701%
+Fichtenstamm,Spruce Log,spruce_log,%ID702%
+Fichtenholzbretter,Spruce Wood Plank,spruce_planks,%ID703%
+Fichtenholzdruckplatte,Spruce Pressure Plate,spruce_pressure_plate,%ID704%
+Fichtensetzling,Spruce Sapling,spruce_sapling,%ID705%
+Fichtenholzschild,Spruce Sign,spruce_sign,%ID706%
+Fichtenholzstufe,Spruce Wood Slab,spruce_slab,%ID707%
+Fichtenholztreppe,Spruce Wood Stairs,spruce_stairs,%ID708%
+Fichtenholzfalltür,Spruce Trapdoor,spruce_trapdoor,%ID709%
+Fichtenholz,Spruce Wood,spruce_wood,%ID710%
+Stock,Stick,stick,%ID711%
+Klebriger Kolben,Sticky Piston,sticky_piston,%ID712%
+Stein,Stone,stone,%ID713%
+Steinaxt,Stone Axe,stone_axe,%ID714%
+Steinziegelstufe,Stone Brick Slab,stone_brick_slab,%ID715%
+Steinziegeltreppe,Stone Brick Stairs,stone_brick_stairs,%ID716%
+Steinziegelmauer,Stone Brick Wall,stone_brick_wall,%ID717%
+Steinziegel,Stone Bricks,stone_bricks,%ID718%
+Steinknopf,Stone Button,stone_button,%ID719%
+Steinhacke,Stone Hoe,stone_hoe,%ID720%
+Steinspitzhacke,Stone Pickaxe,stone_pickaxe,%ID721%
+Steindruckplatte,Stone Pressure Plate,stone_pressure_plate,%ID722%
+Steinschaufel,Stone Shovel,stone_shovel,%ID723%
+Steinstufe,Stone Slab,stone_slab,%ID724%
+Steintreppe,Stone Stairs,stone_stairs,%ID725%
+Steinschwert,Stone Sword,stone_sword,%ID726%
+Faden,String,string,%ID727%
+Entrindeter Akazienstamm,Stripped Acacia Log,stripped_acacia_log,%ID728%
+Entrindetes Akazienholz,Stripped Acacia Wood,stripped_acacia_wood,%ID729%
+Entrindeter Birkenstamm,Stripped Birch Log,stripped_birch_log,%ID730%
+Entrindetes Birkenholz,Stripped Birch Wood,stripped_birch_wood,%ID731%
+Entrindeter Schwarzeichenstamm,Stripped Dark Oak Log,stripped_dark_oak_log,%ID732%
+Entrindetes Schwarzeichenholz,Stripped Dark Oak Wood,stripped_dark_oak_wood,%ID733%
+Entrindeter Tropenbaumstamm,Stripped Jungle Log,stripped_jungle_log,%ID734%
+Entrindetes Tropenholz,Stripped Jungle Wood,stripped_jungle_wood,%ID735%
+Entrindeter Eichenstamm,Stripped Oak Log,stripped_oak_log,%ID736%
+Entrindetes Eichenholz,Stripped Oak Wood,stripped_oak_wood,%ID737%
+Entrindeter Fichtenstamm,Stripped Spruce Log,stripped_spruce_log,%ID738%
+Entrindetes Fichtenholz,Stripped Spruce Wood,stripped_spruce_wood,%ID739%
+Zucker,Sugar,sugar,%ID740%
+Sonnenblume,Sunflower,sunflower,%ID741%
+Süßbeeren,Sweet Berries,sweet_berries,%ID742%
+Hohes Gras,Double Tallgrass,tall_grass,%ID743%
+Keramik,Terracotta,terracotta,%ID744%
+TNT,TNT,tnt,%ID745%
+TNT-Lore,Minecart with TNT,tnt_minecart,%ID746%
+Fackel,Torch,torch,%ID747%
+Totem der Unsterblichkeit,Totem of Undying,totem_of_undying,%ID748%
+Redstone-Truhe,Trapped Chest,trapped_chest,%ID749%
+Dreizack,Trident,trident,%ID750%
+Haken,Tripwire Hook,tripwire_hook,%ID751%
+Tropenfisch,Tropical Fish Clownfish,tropical_fish,%ID752%
+Tropenfischeimer,Bucket of Tropical Fish,tropical_fish_bucket,%ID753%
+Orgelkoralle,Tube Coral,tube_coral,%ID754%
+Orgelkorallenblock,Tube Coral Block,tube_coral_block,%ID755%
+Orgelkorallenfächer,Tube Coral Fan,tube_coral_fan,%ID756%
+Schildkrötenei,Turtle Egg,turtle_egg,%ID757%
+Schildkrötenpanzer,Turtle Shell,turtle_helmet,%ID758%
+Schildkröten-Spawn-Ei,Turtle Spawn Egg,turtle_spawn_egg,%ID759%
+Dorfbewohner-Spawn-Ei,Villager Spawn Egg,villager_spawn_egg,%ID760%
+Ranken,Vines,vine,%ID761%
+Wassereimer,Water Bucket,water_bucket,%ID762%
+Nasser Schwamm,Wet Sponge,wet_sponge,%ID763%
+Weizen,Wheat,wheat,%ID764%
+Weizenkörner,Seeds,wheat_seeds,%ID765%
+Weißes Banner,White Banner,white_banner,%ID766%
+Weißes Bett,White Bed,white_bed,%ID767%
+Weißer Teppich,White Carpet,white_carpet,%ID768%
+Weißer Beton,White Concrete,white_concrete,%ID769%
+Weißer Trockenbeton,White Concrete Powder,white_concrete_powder,%ID770%
+Weißer Farbstoff,White Dye,white_dye,%ID771%
+Weiße glasierte Keramik,White Glazed Terracotta,white_glazed_terracotta,%ID772%
+Weiße Shulkerkiste,White Shulker Box,white_shulker_box,%ID773%
+Weißes Glas,White Stained Glass,white_stained_glass,%ID774%
+Weiße Glasscheibe,White Stained Glass Pane,white_stained_glass_pane,%ID775%
+Weiße Keramik,White Terracotta,white_terracotta,%ID776%
+Weiße Tulpe,White Tulip,white_tulip,%ID777%
+Weiße Wolle,White Wool,white_wool,%ID778%
+Witherrose,Wither Rose,wither_rose,%ID779%
+Witherskelettschädel,Wither Skeleton Skull,wither_skeleton_skull,%ID780%
+Wolf-Spawn-Ei,Wolf Spawn Egg,wolf_spawn_egg,%ID781%
+Holzaxt,Wooden Axe,wooden_axe,%ID782%
+Holzhacke,Wooden Hoe,wooden_hoe,%ID783%
+Holzspitzhacke,Wooden Pickaxe,wooden_pickaxe,%ID784%
+Holzschaufel,Wooden Shovel,wooden_shovel,%ID785%
+Holzschwert,Wooden Sword,wooden_sword,%ID786%
+Buch und Feder,Book and Quill,writable_book,%ID787%
+Gelbes Banner,Yellow Banner,yellow_banner,%ID788%
+Gelbes Bett,Yellow Bed,yellow_bed,%ID789%
+Gelber Teppich,Yellow Carpet,yellow_carpet,%ID790%
+Gelber Beton,Yellow Concrete,yellow_concrete,%ID791%
+Gelber Trockenbeton,Yellow Concrete Powder,yellow_concrete_powder,%ID792%
+Gelber Farbstoff,Yellow Dye,yellow_dye,%ID793%
+Gelbe glasierte Keramik,Yellow Glazed Terracotta,yellow_glazed_terracotta,%ID794%
+Gelbe Shulkerkiste,Yellow Shulker Box,yellow_shulker_box,%ID795%
+Gelbes Glas,Yellow Stained Glass,yellow_stained_glass,%ID796%
+Gelbe Glasscheibe,Yellow Stained Glass Pane,yellow_stained_glass_pane,%ID797%
+Gelbe Keramik,Yellow Terracotta,yellow_terracotta,%ID798%
+Gelbe Wolle,Yellow Wool,yellow_wool,%ID799%
+Zombiekopf,Zombie Head,zombie_head,%ID800%
+Bogen,Bow,bow,%ID801%
+Zuckerrohr,Sugar Cane,sugar_cane,%ID802%
+Steinsäge,Stonecutter,stonecutter,%ID316%
+Geschnittene rote Sandsteinstufe,Cut Red Sandstone Slab,cut_red_sandstone_slab,%ID803%
+Geschnittene Sandsteinstufe,Cut Sandstone Slab,cut_sandstone_slab,%ID804%
+Bienenstock,Beehive,beehive,%ID805%
+Bienennest,Bee Nest,bee_nest,%ID806%
+Bienenwabe,Honeycomb,honeycomb,%ID807%
+Honigflasche,Honey Bottle,honey_bottle,%ID808%
+Honigwabenblock,Honeycomb Block,honeycomb_block,%ID809%
+Honigblock,Honey Block,honey_block,%ID810%
+Seltsame Suppe,Suspicious Stew,suspicious_stew,%ID811%
+Karmesin-Nezel,Crimson Nylium,crimson_nylium,%ID812%
+Karmesinbretter,Crimson Planks,crimson_planks,%ID813%
+Karmesinstiel,Crimson Stem,crimson_stem,%ID814%
+Geschälter Karmesinstiel,Stripped Crimson Stem,stripped_crimson_stem,%ID815%
+Geschälte Karmesinhyphen,Stripped Crimson Hyphae,stripped_crimson_hyphae,%ID816%
+Karmesinhyphen,Crimson_hyphae,crimson_hyphae,%ID817%
+Karmesinstufe,Crimson Slab,crimson_slab,%ID818%
+Karmesintreppe,Cimson Stairs,crimson_stairs,%ID819%
+Karmesinpilz,Crimson Fungus,crimson_fungus,%ID820%
+Karmesinwurzeln,Crimson Roots,crimson_roots,%ID821%
+Trauerranken,Weeping Vines,weeping_vines,%ID822%
+Karmesinzaun,Crimson Fence,crimson_fence,%ID823%
+Karmesinschild,Crimson Sign,crimson_sign,%ID824%
+Karmesindruckplatte,Crimson Pressure Plate,crimson_pressure_plate,%ID825%
+Karmesinfalltür,Crimson Trapdoor,crimson_trapdoor,%ID826%
+Karmesinzauntor,Crimson Fence Gate,crimson_fence_gate,%ID827%
+Karmesinknopf,Crimson Button,crimson_button,%ID828%
+Karmesintür,Crimson Door,crimson_door,%ID829%
+Wirr-Nezel,Warped Nylium,warped_nylium,%ID830%
+Wirrbretter,Warped Planks,warped_planks,%ID831%
+Wirrstiel,Warped Stem,warped_stem,%ID832%
+Geschälter Wirrstiel,Stripped Warped Stem,stripped_warped_stem,%ID833%
+Geschälte Wirrhyphen,Stripped Warped Hyphae,stripped_warped_hyphae,%ID834%
+Wirrhyphen,Warped Hyphae,warped_hyphae,%ID835%
+Wirrstufe,Warped Slab,warped_slab,%ID836%
+Wirrtreppe,Warped Stairs,warped_stairs,%ID837%
+Wirrwarzenblock,Warped Wart Block,warped_wart_block,%ID838%
+Wirrpilz,Warped Fungus,warped_fungus,%ID839%
+Wirrwurzeln,Warped Roots,warped_roots,%ID840%
+Zwirbelranken,Twisting Vines,twisting_vines,%ID841%
+Wirrzaun,Warped Fence,warped_fence,%ID842%
+Wirrdruckplatte,Warped Pressure Plate,warped_pressure_plate,%ID844%
+Wirrfalltür,Warped Trapdoor,warped_trapdoor,%ID845%
+Wirrzauntor,Warped Fence Gate,warped_fence_gate,%ID846%
+Wirrknopf,Warped Button,warped_button,%ID847%
+Wirrtür,Warped Door,warped_door,%ID848%
+Schwarzstein,Blackstone,blackstone,%ID849%
+Schwarzsteinstufe,Blackstone Slab,blackstone_slab,%ID850%
+Schwarzsteintreppe,Blackstone Stairs,blackstone_stairs,%ID851%
+Golddurchzogener Schwarzstein,Gilded Blackstone,gilded_blackstone,%ID852%
+Polierter Schwarzstein,Polished Blackstone,polished_blackstone,%ID853%
+Polierter Schwarzsteinstufe,Polished Blackstone Slab,polished_blackstone_slab,%ID854%
+Polierter Schwazsteintreppe,Polished Blackstone Stairs,polished_blackstone_stairs,%ID855%
+Gemeißelter polierter Schwarzstein,Chiseled Polished Blackstone,chiseled_polished_blackstone,%ID856%
+Polierte Schwarzsteinziegel,Polished Blackstone Bricks,polished_blackstone_bricks,%ID857%
+Polierte Schwarzsteinziegelstufe,Polished Blackstone Brick Slab,polished_blackstone_brick_slab,%ID858%
+Polierte Schwarzsteinziegeltreppe,Polished Blackstone Brick Stairs,polished_blackstone_brick_stairs,%ID859%
+Rissige polierte Schwarzsteinziegel,Cracked Polished Blackstone Bricks,cracked_polished_blackstone_bricks,%ID860%
+Schwarzsteinmauer,Blackstone Wall,blackstone_wall,%ID861%
+Polierte Schwarzsteinmauer,Polished Blackstone Wall,polished_blackstone_wall,%ID862%
+Polierte Schwarzsteinziegelmauer,Polished Blackstone Brick Wall,polished_blackstone_brick_wall,%ID863%
+Polierte Schwarzsteindruckplatte,Polished Blackstone Pressure Plate,polished_blackstone_pressure_plate,%ID864%
+Polierte Schwarzsteinknopf,Polished Blackstone Button,polished_blackstone_button,%ID865%
+Nethergolderz,Nether Gold Ore,nether_gold_ore,%ID866%
+Seelenerde,Soul Soil,soul_soil,%ID867%
+Basalt,Basalt,basalt,%ID868%
+Polierter Basalt,Polished Basalt,polished_basalt,%ID869%
+Rissige Netherziegel,Cracked Nether Bricks,cracked_nether_bricks,%ID870%
+Gemeißelte Netherzielel,Chiseled Nether Bricks,chiseled_nether_bricks,%ID871%
+Quarzziegel,Quartz Bricks,quartz_bricks,%ID872%
+Antiker Schrott,Ancient Debris,ancient_debris,%ID873%
+Netheritplatten,Netherite Scrap,netherite_scrap,%ID874%
+Netheritbarren,Netherite Ingot,netherite_ingot,%ID875%
+Netheritblock,Netherite Block,netherite_block,%ID876%
+Kette,Chain,chain,%ID877%
+Weinender Obsidian,Crying Obsidian,crying_obsidian,%ID878%
+Seelenanker,Respawn Anchor,respawn_anchor,%ID879%
+Leitstein,Lodestone,lodestone,%ID880%
+Pilzlicht,Shroomlight,shroomlight,%ID881%
+Zielblock,Target,target,%ID882%
+Seelenlaterne,Soul Latern,soul_latern,%ID883%
+Seelenfackel,Soul Torch,soul_torch,%ID884%
+Seelenlagerfeuer,Soul Campfire,soul_campfire,%ID885%
+Lena Raine,Pigstep,music_disc_pigstep,%ID886%
+Wirrpilzrute,Warped Fungus on a Stick,warped_fungus_on_a_stick,%ID887%
+Netherithelm,Netherite_Helmet,netherite_helmet,%ID888%
+Netheritharnisch,Netherite Chestplate,netherite_chestplate,%ID889%
+Netheritbeinschutz,Netherite Leggings,netherite_leggings,%ID890%
+Netheritstiefel,Netherite Boots,netherite_boots,%ID891%
+Netheritschaufel,Netherite Shovel,netherite_shovel,%ID892%
+Netheritspitzhacke,Netherite Pickaxe,netherite_pickaxe,%ID893%
+Netheritaxt,Netherite Axe,netherite_axe,%ID894%
+Netherithacke,Netherite Hoe,netherite_hoe,%ID895%
+Netheritschwert,Netherite Sword,netherite_sword,%ID896%
+Kleine Amethystknospe,Small Amethyst Bud,small_amthyst_bud,%ID897%
+Mittlere Amethystknospe,Medium Amethyst Bud,medium_amethyst_bud,%ID898%
+Großer Amethystknospe,Large Amethyst Bud,large_amethyst_bud,%ID899%
+Amethysthaufen,Amethyst Cluster,amethyst_cluster,%ID900%
+Amethystscherbe,Amethyst Shard,amethyst_shard,%ID901%
+Kalzit,Calcite,calcite,%ID902%
+Glatter Basalt,Smooth Basalt,smooth_basalt,%ID903%
+Amethystblock,Block of Amethyst,amethyst_block,%ID904%
+Amethystknospenblock,Budding Amethyst,budding_amethyst,%ID905%
+Leuchtbeeren,Glow Berries,glow_berries,%ID906%
+Kleines Tropfblatt,Small Dripleaf,small_dripleaf,%ID907%
+Großes Tropfblatt,Big Dripleaf,big_dripleaf,%ID908%
+Hängende Wurzeln,Hanging Roots,hanging_roots,%ID909%
+Sporenblüte,Spore Blossom,spore_blossom,%ID910%
+Moosteppich,Moss Carpet,moss_carpet,%ID911%
+Wurzelerde,Rooted Dirt,rooted_dirt,%ID912%
+Moosblock,Moss Block,moss_block,%ID913%
+Azalee,Azalea,azalea,%ID914%
+Blühende Azalee,Flowering Azalea,flowering_azalea,%ID915%
+Azaleenlaub,Azalea Leaves,azalea_leaves,%ID916%
+Blühendes Azaleenlaub,Flowering Azalea Leaves,flowering_azalea_leaves,%ID917%
+Leuchtflechte,Glow Lichen,glow_lichen,%ID918%
+Tropfsteinblock,Dripstone Block,dripstone_block,%ID919%
+Spitzer Tropfstein,Pointed Dripstone,pointed_dripstone,%ID920%
+Axolotleimer,Bucket of Axolotl,axolotl_bucket,%ID921%
+Kupferblock,Copper Block,copper_block,%ID922%
+Gewachster Kupferblock,Waxed Copper Block,waxed_copper_block,%ID923%
+Angelaufener Kupferblock,Exposed Copper,exposed_copper,%ID924%
+Gewachster angelaufener Kupferblock,Waxed Exposed Copper,waxed_exposed_copper,%ID925%
+Verwitterter Kupferblock,Weathered Copper,weathered_copper,%ID926%
+Gewachster verwitterter Kupferblock,Waxed Weatherd Copper,waxed_weathered_copper,%ID927%
+Oxidierter Kupferblock,Oxidised Copper,oxidized_copper,%ID928%
+Gewachster oxidierter Kupferblock,Waxed Oxidised Copper,waxed_oxidized_copper,%ID929%
+Geschnittener Kupferblock,Cut Copper,cut_copper,%ID930%
+Gewachster geschnittener Kupferblock,Waxed Cut Copper,waxed_cut_copper,%ID931%
+Geschnittene Kupfertreppe,Cut Copper Stairs,cut_copper_stairs,%ID932%
+Gewachste geschnittene Kupfertreppe,Waxed Cut Copper Stairs,waxed_cut_copper_stairs,%ID933%
+Lapislazuli,Lapis Lazuli,lapis_lazuli,%ID394%
+Geschnittene Kupferstufe,Cut Copper Slab,cut_copper_slab,%ID934%
+Gewachste geschnittene Kupferstufe,Waxed Cut Copper Slab,waxed_cut_copper_slab,%ID935%
+Lapislazulierz,Lapis Lazuli Ore,lapis_ore,%ID395%
+Angelaufener geschnittener Kupferblock,Exposed Cut Copper,exposed_cut_copper,%ID936%
+Angelaufene geschnittene Kupfertreppe,Exposed Cut Copper Stairs,exposed_cut_copper_stairs,%ID937%
+Gewachste angelaufene geschnittene Kupferstufe,Waxed Exposed Cut Copper Stairs,waxed_exposed_cut_copper_slab,%ID938%
+Angelaufene geschnittene Kupferstufe,Exposed Cut Copper Slab,exposed_cut_copper_slab,%ID939%
+Verwitterte geschnittene Kupferstufe,Waxed Exposed Cut Copper Slab,weathered_cut_copper_slab,%ID940%
+Verwitterter geschnittener Kupferblock,Weathered Cut Copper,weathered_cut_copper,%ID941%
+Gewachster verwitterter geschnittener Kupferblock,Waxed Weathered Cut Copper,waxed_weathered_cut_copper,%ID942%
+Verwitterte geschnittene Kupfertreppe,Weathered Cut Copper Stairs,weathered_cut_copper_stairs,%ID943%
+Gewachste verwitterte geschnittene Kupfertreppe,Waxed Weathered Cut Copper Stairs,waxed_weathered_cut_copper_stairs,%ID944%
+Gewachster angelaufener geschnittener Kupferblock,Waxed Exposed Cu Copper,waxed_exposed_cut_copper,%ID945%
+Gewachste verwitterte geschnittene Kupferstufe,Waxed Weathered Cut Copper Slab,waxed_weathered_cut_copper_slab,%ID946%
+Oxidierter geschnittener Kupferblock,Oxidised Cut Copper,oxidized_cut_copper,%ID947%
+Gewachster oxidierter geschnittener Kupferblock,Waxed Oxidised Cut Copper,waxed_oxidized_cut_copper,%ID948%
+Oxidierte geschnittene Kupfertreppe,Oxidised Cut Copper Stairs,oxidized_cut_copper_stairs,%ID949%
+Gewachste oxidierte geschnittene Kupfertreppe,Waxed Oxidised Cut Copper Stairs,waxed_oxidized_cut_copper_stairs,%ID950%
+Oxidierte geschnittene Kupferstufe,Oxidised Cut Copper Slab,oxidized_cut_copper_slab,%ID951%
+Gewachste oxidierte geschnittene Kupferstufe,Waxed Oxidised Cut Copper Slab,waxed_oxidized_cut_copper_slab,%ID952%
+Kupferbarren,Copper Ingot,copper_ingot,%ID953%
+Kupfererz,Copper Ore,copper_ore,%ID954%
+Tiefenschiefer-Kupfererz,Deepslate Copper Ore,deepslate_copper_ore,%ID955%
+Rohgold,Raw Gold,raw_gold,%ID956%
+Roheisen,Raw Iron,raw_iron,%ID957%
+Rohkupfer,Raw Copper,raw_copper,%ID958%
+Rohkupferblock,Block of Raw Copper,raw_copper_block,%ID959%
+Rohgoldblock,Block of Raw Gold,raw_gold_block,%ID960%
+Roheisenblock,Block of Raw Iron,raw_iron_block,%ID961%
+Tiefenschiefer-Golderz,Deepslate gold Ore,deepslate_gold_ore,%ID962%
+Tiefenschiefer-Eisenerz,Deepslate Iron Ore,deepslate_iron_ore,%ID963%
+Tiefenschiefer-Redstone-Erz,Deepslate Redstone Ore,deepslate_redstone_ore,%ID964%
+Tiefenschiefer-Smaragderz,Deepslate Emerald Ore,deepslate_emerald_ore,%ID965%
+Tiefenschiefer-Lapislazulierz,Deepslate Lapis Ore,deepslate_lapis_ore,%ID966%
+Tiefenschiefer-Diamanterz,Deepslate Diamond Ore,deepslate_diamond_ore,%ID967%
+Tiefenschiefer-Steinkohle,Deepslate Coal Ore,deepslate_coal_ore,%ID968%
+Fernrohr,Spyglass,spyglass,%ID969%
+Blitzableiter,Lightning Rod,lightning_rod,%ID970%
+Getöntes Glas,Tinted Glass,tinted_glass,%ID971%
+Tiefenschiefer,Deepslate,deepslate,%ID972%
+Bruchtiefenschiefer,Cobbled Deepslate,cobbled_deepslate,%ID973%
+Polierter Tiefenschiefer,Polished deepslate,polished_deepslate,%ID974%
+Tuffstein,Tuff,tuff,%ID975%
+Tiefenschieferziegel,Deepslate Bricks,deepslate_bricks,%ID976%
+Rissige Tiefenschieferziegel,Cracked Deepslate Bricks,cracked_deepslate_bricks,%ID977%
+Tiefenschieferfliesen,Deepslate Tiles,deepslate_tiles,%ID978%
+Rissige Tiefenschieferfliesen,Cracked Deepslate Tiles,cracked_deepslate_tiles,%ID979%
+Gemeißelter Tiefenschiefer,Chiseled Deepslate,chiseled_deepslate,%ID980%
+Bruchtiefenschiefermauer,Cobbled Deepslate Wall,cobbled_deepslate_wall,%ID981%
+Polierte Tiefenschiefermauer,Polished Deepslate Wall,polished_deepslate_wall,%ID982%
+Tiefenschieferziegelmauer,Deepslate Brick Wall,deepslate_brick_wall,%ID983%
+Tiefenschieferfliesenmauer,Deepslate Tile Wall,deepslate_tile_wall,%ID984%
+Bruchtiefenschiefertreppe,Cobbled deepslate Stairs,cobbled_deepslate_stairs,%ID985%
+Polierte Tiefenschiefertreppe,Polished Deepslate Stairs,polished_deepslate_stairs,%ID986%
+Tiefenschieferziegeltreppe,Deepslate Brick Stairs,deepslate_brick_stairs,%ID987%
+Tiefenschieferfliesentreppe,Deepslate Tile Stairs,deepslate_tile_stairs,%ID988%
+Bruchtiefenschieferstufe,Cobbled Deepslate Slab,cobbled_deepslate_slab,%ID989%
+Polierte Tiefenschieferstufe,Polished Deepslate Slab,polished_deepslate_slab,%ID990%
+Tiefenschieferziegelstufe,Deepslate Brick Slab,deepslate_brick_slab,%ID991%
+Tiefenschieferfliesenstufe,Deepslate Tile Slab,deepslate_tile_slab,%ID992%
+Befallener Tiefenschiefer,Infested Deepslate,infested_deepslate,%ID993%
+Kerze,Candle,candle,%ID994%
+Weiße Kerze,White Candle,white_candle,%ID995%
+Orange Kerze,Orange Candle,orange_candle,%ID996%
+Magenta Kerze,Magenta Candle,magenta_candle,%ID997%
+Hellblaue Kerze,Light Blue Candle,light_blue_candle,%ID998%
+Gelbe Kerze,Yellow Candle,yellow_candle,%ID999%
+Hellgrüne Kerze,Lime Candle,lime_candle,%ID1000%
+Rosa Kerze,Pink Candle,pink_candle,%ID1001%
+Graue Kerze,Gray Candle,gray_candle,%ID1002%
+Hellgraue Kerze,Light Gray Candle,light_gray_candle,%ID1003%
+Türkise Kerze,Cyan Candle,cyan_candle,%ID1004%
+Violette Kerze,Purple Candle,purple_candle,%ID1005%
+Blaue Kerze,Blue Candle,blue_candle,%ID1006%
+Braune Kerze,Brown Candle,brown_candle,%ID1007%
+Grüne Kerze,Green Candle,green_candle,%ID1008%
+Rote Kerze,Red Candle,red_candle,%ID1009%
+Schwarze Kerze,Black Candle,black_candle,%ID1010%
+Leuchttintenbeutel,Glow Ink Sac,glow_ink_sac,%ID1011%
+Leuchtrahmen,Glow Item Frame,glow_item_frame,%ID1012%
+Pulverschneeeimer,Powder Snow Bucket,powder_snow_bucket,%ID1013%
