@@ -92,8 +92,8 @@ while keyboard.is_pressed('Alt+y') == False:
         takescreenshot(calc_xy(1500, 280, 420, 20))
         text =  textdetection()
         PipeId = searchcsv(text)
-
-        if PipeId == "":
+        print(PipeId)
+        if PipeId == None:
             if debug:
                 print("PipeID not found")
         else:
@@ -106,4 +106,3 @@ while keyboard.is_pressed('Alt+y') == False:
 if debug:
     print("Program ended")
 
-print(PipeId)
