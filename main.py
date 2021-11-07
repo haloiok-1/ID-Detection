@@ -43,7 +43,7 @@ def calc_xy(x, y, w, h):
     return x1, y1, x2, y2
 
 def textdetection(Filepath=""):
-        # Textdetetion
+        # Textdetection
         reader = ocr.Reader(["en"])
         img = cv2.imread(Filepath)
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
